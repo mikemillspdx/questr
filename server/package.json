@@ -1,0 +1,14 @@
+{
+  "main": "",
+  "scripts": {},
+  "dependencies": {
+    "apollo-server-lambda": "^2.9.6",
+    "dotenv": "^8.0.0",
+    "graphql": "^14.5.8",
+    "pg": "^7.12.1",
+    "sequelize": "^5.13.1",
+    "uuidv4": "^5.0.1"
+  },
+  "devDependencies": {},
+  "private": false
+}

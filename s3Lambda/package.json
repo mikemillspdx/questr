@@ -1,0 +1,21 @@
+{
+  "name": "lambda-s3Talk",
+  "version": "1.0.0",
+  "author": "Mike Mills",
+  "description": "lambda-s3Talk",
+  "dependencies": {
+    "aws-sdk": "*",
+    "contextify": "*",
+    "handlebars": "*",
+    "lodash": "*",
+    "moment": "*",
+    "node-uuid": "*",
+    "pg": "*",
+    "when": "*",
+    "request": "*"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
